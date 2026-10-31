@@ -1,0 +1,6 @@
+{
+  "name": "Kashi Computer - Sales, Repair & IT Services",
+  "description": "Premier computer sales, laptop repair, custom PC builds and digital citizen services at Shukla Complex, Rajghat, Raebareli. Call or WhatsApp 7398396002.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
